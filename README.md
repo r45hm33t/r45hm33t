@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @r45hm33t
-- 👀 I’m interested in Java, Full Stack(MERN) and Machine Learning
+- 👀 I’m interested in Java, Full Stack(MERN), Machine Learning, Data Science and Virtual Reality
 - 🌱 I’m currently learning Front-end web technologies, alongside ML
-- 💞️ I’m looking to collaborate on any of the above mentioned fields.
+- 💞️ I’m looking to collaborate on any of the above-mentioned fields
 - 📫 How to reach me: email: kaurrashmeet680@gmail.com
                        linkedIn: https://www.linkedin.com/in/rashmeet-kaur-9b76091b9/
 <!---
